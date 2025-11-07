@@ -1,2 +1,6 @@
+HEAD
 hello, this is practice file for cloning repo
 change made in cloning_repo_2
+
+hello, this is practice file for cloning repo:
+change made in clone_repo_1
